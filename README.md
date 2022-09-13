@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is João Pedro Corrêa doing Bachelor's degree in Information Systems.
+
 
 <!--
 **JPQuadrado/JPQuadrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
