@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is João Pedro Corrêa studying Bachelor's degree in Information Systems.
+## My name is João Pedro Corrêa studying Information Systems at UFU
 
 
 <!--
