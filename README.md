@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is João Pedro Corrêa studying Information Systems at UFU
+## My name is João Pedro Corrêa, I'm studying Information Systems at UFU
 
 
 <!--
